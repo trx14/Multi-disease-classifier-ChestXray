@@ -1,4 +1,4 @@
-# Multi-disease-classifier-ChestXray
+# Classification of chest CT using case-level weak supervision [link](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10950/1095017/Classification-of-chest-CT-using-case-level-weak-supervision/10.1117/12.2513576.short?SSO=1)
 ## Abstract
 Our goal is to investigate using only 'case-level' labels extracted automatically from radiology reports to construct a multi-disease classifier for CT scans with deep learning method. We chose three lung diseases as a start: atelectasis, pulmonary edema, and pneumonia. From a dataset of approximately 5,000 chest CT cases from our institution, we used a rule-based model to analyze those radiologist reports, labeling disease by text mining to identify cases with those diseases. From those results, we randomly selected the following mix of cases: 140 normal, 180 atelectasis, 195 pulmonary edema, and 190 pneumonia.  
 
